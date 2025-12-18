@@ -1,2 +1,4 @@
-Telethon==1.16.4
-maigret>=0.1.17
+discord.py>=2.3.0
+maigret>=0.4.4
+aiosqlite>=0.19.0
+pyyaml>=6.0
